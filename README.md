@@ -50,9 +50,10 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yarennio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=true" height="150" alt="languages graph" style="max-width: 100%; height: auto;" /> <br>
-  <img src="https://streak-stats.demolab.com?user=yarennio&locale=en&mode=weekly&theme=cobalt&hide_border=true&border_radius=5" height="150" alt="streak graph" style="max-width: 100%; height: auto;" /> <br>
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarennio&layout=compact&theme=vision-friendly-dark" alt="Yarennio Top Langs" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yarennio&theme=vision-friendly-dark" alt="Yarennio Streak" /></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yarennio&hide_title=false&hide_border=true&theme=dracula&area=true&radius=0" height="200" alt="activity-graph graph" style="max-width: 100%; height: auto;" />
 </div>
 
