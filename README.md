@@ -41,14 +41,22 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarennio&layout=compact&theme=vision-friendly-dark" height="165" alt="Yarennio Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yarennio&theme=vision-friendly-dark" height="165" alt="Yarennio Streak" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarennio&layout=compact&theme=radical" alt="Top Langs" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yarennio&theme=radical" alt="Streak" />
+    </td>
+  </tr>
+</table>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yarennio&hide_title=false&hide_border=true&theme=dracula&area=true&radius=0" width="800" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yarennio&hide_title=false&hide_border=true&theme=radical&area=true&radius=0" width="800" alt="activity-graph" />
 </div>
 
 <br />
