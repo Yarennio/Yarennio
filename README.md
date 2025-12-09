@@ -41,22 +41,17 @@
 <br />
 
 <div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarennio&layout=compact&theme=radical" alt="Top Langs" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yarennio&theme=radical" alt="Streak" />
-    </td>
-  </tr>
-</table>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarennio&layout=compact&theme=radical" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180" src="https://github-readme-streak-stats.demolab.com/?user=Yarennio&theme=radical" alt="GitHub Streak" />
+  </a>
 </div>
-
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yarennio&hide_title=false&hide_border=true&theme=radical&area=true&radius=0" width="800" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yarennio&hide_title=false&hide_border=true&theme=radical&area=true&radius=0" width="800" alt="activity-graph" />
 </div>
 
 <br />
