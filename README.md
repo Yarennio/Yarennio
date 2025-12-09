@@ -29,7 +29,11 @@
 <br />
 
 <div align="center">
+  <img src="https://github.com/user-attachments/assets/018b7e6f-2e2d-44aa-8cd8-8395563c949b" width="600" alt="Arsenal Banner" />
+  <br>
+
   <h3 style="font-family: monospace; color: #ff0000;">> NETWORK_ACTIVITY_LOG (Last 31 Days)</h3>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yarennio&theme=react-dark&bg_color=0D1117&color=ff0000&line=ff0000&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
@@ -38,15 +42,15 @@
 <div align="center">
   <h3>💀 Establish Secure Connection</h3>
   
-  <a href="GITHUB_LINKINI_BURAYA_YAPISTIR" target="_blank">
+  <a href="https://github.com/Yarennio" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff0000" height="35" alt="GitHub"/>
   </a>
   
-  <a href="LINKEDIN_LINKINI_BURAYA_YAPISTIR" target="_blank">
+  <a href="https://www.linkedin.com/in/yaren-ba%C5%9Fo%C4%9Flu-497210287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff0000" height="35" alt="LinkedIn"/>
   </a>
   
-  <a href="mailto:MAIL_ADRESINI_BURAYA_YAPISTIR" target="_blank">
+  <a href="mailto:yarenbasoglu2@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff0000" height="35" alt="Gmail"/>
   </a>
 </div>
