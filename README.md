@@ -48,10 +48,10 @@
 <br clear="both">
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarennio&layout=compact&theme=vision-friendly-dark" alt="Yarennio Top Langs" /></p>
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yarennio&layout=compact&theme=vision-friendly-dark" alt="Yarennio Top Langs" /></p><p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yarennio&theme=vision-friendly-dark" alt="Yarennio Streak" /></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yarennio&hide_title=false&hide_border=true&theme=dracula&area=true&radius=0" height="200" alt="activity-graph graph" style="max-width: 100%; height: auto;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yarennio&hide_title=false&hide_border=true&theme=dracula&area=true&radius=0" height="200" alt="activity-graph graph" style="max-width: 100%; height:
+  auto;" />
 </div>
 
 ###
