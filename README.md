@@ -25,6 +25,13 @@
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=8b0000&height=2&width=100%" />
 </div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c6d8d599-96b3-48dc-a9cc-13c2bd4219b8" width="400" alt="terminal GIF"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/018b7e6f-2e2d-44aa-8cd8-8395563c949b" width="500" alt="Arsenal Banner"/>
+</div>
 
 
 
